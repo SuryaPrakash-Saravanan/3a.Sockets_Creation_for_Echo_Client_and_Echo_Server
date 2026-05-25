@@ -32,8 +32,11 @@ while True:
 ```
 ## OUPUT
 Client:
+
 <img width="868" height="298" alt="3a client" src="https://github.com/user-attachments/assets/087f786d-189d-4955-a50c-7e00b3c16e88" />
+
 Server:
+
 <img width="927" height="298" alt="3a server" src="https://github.com/user-attachments/assets/42da20dc-951b-40c8-8f0e-151467413937" />
 
 ## RESULT
